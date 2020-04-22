@@ -6,3 +6,4 @@ Agriculture is crucial around the world as it involves every person on the plane
 This repository is part of a dissertation and publication. Hardware can be found in the Hardware folder. The desktop applicaiton can be deployed using client.py. 
 
 
+[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)

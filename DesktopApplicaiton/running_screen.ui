@@ -370,27 +370,27 @@
    </row>
    <row>
     <property name="text">
-     <string>W = Forward</string>
+     <string>CTRL+W = Forward</string>
     </property>
    </row>
    <row>
     <property name="text">
-     <string>A = Turn left</string>
+     <string>CTRL+A = Turn left</string>
     </property>
    </row>
    <row>
     <property name="text">
-     <string>S = Backward</string>
+     <string>CTRL+S = Backward</string>
     </property>
    </row>
    <row>
     <property name="text">
-     <string>D = Turn right</string>
+     <string>CTRL+D = Turn right</string>
     </property>
    </row>
    <row>
     <property name="text">
-     <string>P = Autonomous Driving (pose-to-pose)</string>
+     <string>CTRL+P = Autonomous Driving (pose-to-pose)</string>
     </property>
    </row>
   </widget>

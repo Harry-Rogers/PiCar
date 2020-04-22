@@ -9,5 +9,5 @@ This repository is part of a dissertation and publication. Hardware used can be 
 
 ## Video Demonstration
 
-[![Video Demonstration](https://github.com/Harry-Rogers/PiCar/blob/master/images/VideoLink.png)](https://youtu.be/0tLu_chFWT4)
+[![Video Demonstration](https://github.com/Harry-Rogers/PiCar/blob/master/images/VideoLinkMaster.png)](https://youtu.be/0tLu_chFWT4)
 

@@ -1,6 +1,6 @@
 ## Hardware
 
-This folder contains the main IC datasheets for this Kit. It also contains the seed dispenser and GNSS module used in the built system.
+This folder contains the main IC datasheets for this Kit. It also contains the seed dispenser and GNSS module used in the built system. The kit this system is from can be found at https://github.com/sunfounder/SunFounder_PiCar-V
 
 PCB and chips:
  - Raspberry Pi Model 3 B+

@@ -731,12 +731,10 @@ def dubinType(mode,px,py,inrange):
     all_zeros = not np.any(inrange)
     if all_zeros == True:
         print("Try a different point in Dubins_path_planning file")
-    else:
-        x = distancefirstcircle(px,py,i)
-        y = distanceStraight(px,py,i,j)
-        z = distancelastCircle(px,py,j,k)
-        
-           
+	
+    x = distancefirstcircle(px,py,i)
+    y = distanceStraight(px,py,i,j)
+    z = distancelastCircle(px,py,j,k)
     if mode == ['R','S','R']:
         start = time.time()
         run_action('right_circle')

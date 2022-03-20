@@ -12,4 +12,4 @@ This repository is part of a dissertation and publication. Hardware used can be 
 [![Video Demonstration](https://github.com/Harry-Rogers/PiCar/blob/master/images/VideoLinkMaster.png)](https://youtu.be/0tLu_chFWT4)
 
 ## Publication Link
-https://www.ukras.org/wp-content/uploads/formidable/21/UKRAS20_paper_05.pdf
+https://www.ukras.org.uk/wp-content/uploads/formidable/21/UKRAS20_paper_05.pdf
